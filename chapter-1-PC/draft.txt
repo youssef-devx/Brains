@@ -1,0 +1,17 @@
+Patters of sentences:
+
+0. Subject-Verb-Object (SVO): This sentence pattern includes a subject, a verb, and an object (the thing or person that receives the action of the verb). For example: "I ate an apple."
+
+1. Subject-Verb-Indirect Object-Direct Object (SVIDO): In this pattern, the subject performs an action on the direct object and also gives something to the indirect object. For example: "She gave her brother a book."
+
+2. Subject-Verb-Object-Complement (SVOC): In this pattern, the subject performs an action on the object and also has a complement that renames or describes the subject. For example: "He painted the house green."
+
+3. Subject-Verb-Adjective (SVA): In this pattern, the subject is described by an adjective that follows the verb. For example: "The sky turned dark."
+
+4. Subject-Verb-Adverbial (SAdv): In this pattern, the subject performs an action that is described by an adverbial phrase. For example: "He walked to the store slowly."
+
+5. Subject-Verb-Object-Object (SVOO): In this pattern, the subject performs an action on two objects. For example: "She gave her mother flowers and candy."
+
+6. Subject-Verb-Object-Adverbial (SVOAdv): In this pattern, the subject performs an action on an object that is described by an adverbial phrase. For example: "He wrote a letter to his friend yesterday."
+
+These are just a few examples of the many sentence patterns that exist in English. Understanding sentence patterns can help you to construct clear and effective sentences when speaking and writing.

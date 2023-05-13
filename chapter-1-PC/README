@@ -1,0 +1,26 @@
+#DESCRIPTION OF THIS CHAPTER
+
+<DESCRIPTION OF THIS CHAPTER>
+
+##About the files and the folders
+
+##Word Attributes:
+
+definition
+meanings: contains its parts of speech and meaning when it is a certain part of speech.
+plural: its plural(if not plural).
+singular: its singular(if not singular)
+... 
+
+##Verbs Conjugation:
+ConjugateTo: A function that conjugate a verb into a tense(accepts verb and tense parameters).
+WhichTense: A function that returns the tense of the verb.
+... 
+
+##Morphology: 
+Which: A fuction that returns the parts of speech(nature) of a word.
+Prefix: A fuction taht adds a prefix before the a word.
+Suffix: A fuction taht adds a suffix before the a word.
+... 
+
+

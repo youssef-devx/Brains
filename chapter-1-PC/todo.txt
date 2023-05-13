@@ -1,0 +1,5 @@
+MEDIUM - Build minimal UI to facilitate the modification of the words.
+EASY - Move unneeded functions to "utils" file.
+EASY - Check chatGPT
+EASY - Test for loop and see what better [Done]
+...
