@@ -1,0 +1,5 @@
+function makeWord() {
+  
+}
+
+module.exports = {}
