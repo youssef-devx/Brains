@@ -1,0 +1,8 @@
+-Abilities/Purposes/Features:
+  -Able to construct words:
+    -Based on a reason whether it is:
+      -Formal or infromal.
+      -Short or long form.
+      -Affirmative or negative.
+  -Able to deconstruct words.
+  -Able to parse words. // priority 0
