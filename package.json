@@ -1,5 +1,5 @@
 {
-  "name": "project-x",
+  "name": "brains",
   "version": "1.0.0",
   "description": "Will be added later on.",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "author": "Devx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/youssef-devx/Project-X/issues"
+    "url": "https://github.com/youssef-devx/Brains/issues"
   },
-  "homepage": "https://github.com/youssef-devx/Project-X#readme"
+  "homepage": "https://github.com/youssef-devx/Brains#readme"
 }
